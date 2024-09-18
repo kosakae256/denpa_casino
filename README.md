@@ -1,3 +1,6 @@
+windows側ではgit、python3のinstallが必要です
+python3は3.12で動作確認してますが、単に画像処理やってるだけなのでそれに近ければ動きます
+
 ### windows側
 
 cdで作業ディレクトリに移動
@@ -21,3 +24,4 @@ sock.pyの11行目を覚えたものに置き換える
 ```
 python sock.py
 ```
+
